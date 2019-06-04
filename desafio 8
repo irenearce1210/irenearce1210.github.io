@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+        
+        body {
+            background-color: yellow;
+        }
+        </style>
+        <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203"> 
+
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        
+  <h1>Esta en mi nueva pagina web</h1>
+  
+    <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
+
+  <p>Este es el cuerpo de mi primera pagina HTML</p>
+  <p>Este segundo parrafo tambien forma parte del cuerpo</p>
+
+        
+    </body>
+</html>
+
+
